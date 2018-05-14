@@ -29,7 +29,8 @@
 		
 		if_match
 		{
-			"xpos"				"42"
+			"xpos"				"38"
+			"ypos"				"-8"
 		}
 		
 		"TimePanelValue"
@@ -51,7 +52,6 @@
 			if_match
 			{
 				"font"			"KeepCalm10"
-				"ypos"			"15"
 			}
 		}
 	}
@@ -77,7 +77,8 @@
 		
 		if_match
 		{
-			"xpos"				"65"
+			"xpos"				"72"
+			"ypos"				"-8"
 		}
 		
 		"TimePanelValue"
@@ -99,7 +100,6 @@
 			if_match
 			{
 				"font"			"KeepCalm10"
-				"ypos"			"15"
 			}
 		}
 	}
@@ -116,5 +116,10 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"fillcolor"			"255 255 255 255"
+		
+		if_match
+		{
+			"wide"			"0"
+		}
 	}
 }

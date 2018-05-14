@@ -20,8 +20,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"TimePanelProgressBar"
@@ -45,8 +44,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"WaitingForPlayersLabel"
@@ -70,8 +68,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -81,12 +78,9 @@
 		"xpos"			"9999"	[$WIN32]
 		"xpos"			"9999"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"0"
-		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -94,8 +88,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"OvertimeLabel"
@@ -118,8 +111,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}			
 	"OvertimeBG"
@@ -129,12 +121,9 @@
 		"xpos"			"9999"	[$WIN32]
 		"xpos"			"9999"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -142,8 +131,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"SuddenDeathLabel"
@@ -155,8 +143,6 @@
 		"zpos"			"5"
 		"wide"			"80"
 		"tall"			"19"
-		"tall_hidef"	"19"
-		"tall_lodef"	"22"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_SuddenDeath"
@@ -169,8 +155,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}			
 	"SuddenDeathBG"
@@ -180,12 +165,9 @@
 		"xpos"			"9999"	[$WIN32]
 		"xpos"			"9999"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -193,8 +175,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}	
 	"SetupLabel"
@@ -218,8 +199,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}	
 	"SetupBG"
@@ -229,12 +209,9 @@
 		"xpos"			"9999"	[$WIN32]
 		"xpos"			"9999"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"20"
-		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -242,8 +219,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"ServerTimeLimitLabel"
@@ -267,10 +243,8 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			
 		}
-
 	}	
 	"ServerTimeLimitLabelBG"
 	{
@@ -279,12 +253,9 @@
 		"xpos"			"9999"	[$WIN32]
 		"xpos"			"9999"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"80"
 		"tall"			"0"
-		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -292,8 +263,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 }

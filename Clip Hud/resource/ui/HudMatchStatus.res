@@ -267,15 +267,13 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"c-55"
-		"ypos"				"-14"	[$WIN32]
-		"ypos"				"24"	[$X360]
+		"ypos"				"-14"
 		"zpos"				"1"
 		"wide"				"110"
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
-		"delta_item_x"			"22"	[$WIN32]
-		"delta_item_x"			"115"	[$X360]
+		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
 		"PositiveColor"			"0 255 0 255"
@@ -285,13 +283,14 @@
 		
 		if_match
 		{
+			"xpos"				"c-48"
+			"ypos"				"-8"
 			"zpos"				"5"
-			
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"KeepCalm24"
 			"fgcolor"		"White"
@@ -302,14 +301,12 @@
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"xpos"			"15"
-				"ypos"			"16"
-				"font"			"KeepCalm12"
+				"font"		"KeepCalm12"
 			}
 		}	
 	}
