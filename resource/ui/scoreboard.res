@@ -148,8 +148,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
-			"tall"			"448"
+			"visible"		"0"
 		}
 	}							
 	"BlueTeamLabel"
@@ -403,7 +402,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
+			"visible"		"0"
 		}
 	}
 	"ServerTimeLeft"
@@ -426,7 +425,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
+			"visible"		"0"
 		}
 	}							
 	"BluePlayerList"
@@ -520,7 +519,7 @@
 		
 		if_mvm
 		{
-			"ypos"		"428"
+			"visible"		"0"
 		}
 	}	
 	"SpectatorsInQueue"
@@ -570,7 +569,7 @@
 		
 		if_mvm
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 	"ClassImage"
@@ -591,7 +590,7 @@
 		
 		if_mvm
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 	"PlayerNameLabel"
@@ -613,8 +612,7 @@
 		
 		if_mvm
 		{
-			"visible"		"1"
-			"wide"			"175"
+			"visible"		"0"
 		}
 	}	
 	"MapName"
@@ -663,7 +661,7 @@
 		
 		if_mvm
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 	"PlayerScoreLabel"
@@ -943,8 +941,7 @@
 		
 		if_mvm
 		{
-			"ypos"			"0"
-			"tall"			"448"
+			"visible"		"0"
 		}
 	}	
 	
@@ -965,7 +962,7 @@
 		
 		if_mvm
 		{
-			"visible"		"1"
+			"wide"		"0"
 		}
 
 		"KillsLabel"
